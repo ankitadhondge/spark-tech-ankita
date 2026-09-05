@@ -1,0 +1,3 @@
+Hello, Welcome to git repository.
+we're practicing git here.
+thank you!!
