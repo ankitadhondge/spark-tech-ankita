@@ -1,0 +1,4 @@
+Hello everyone, welcome to git demo sessions.
+have a good day today
+Thank you!!
+
