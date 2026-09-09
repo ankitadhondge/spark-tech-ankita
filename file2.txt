@@ -1,4 +1,10 @@
 Hello this our 2nd file. 
 Every sunset is An OPPORTUNITY to reset.
 Thank you!
-Have a good day today!
+Have a good day today!#first commit
+
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
