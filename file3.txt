@@ -1,3 +1,7 @@
 Hello everyone!!
 we're learing VCS here!!
 Thank you!!
+
+#second commit 
+this is second commit. 
+------------------------------
