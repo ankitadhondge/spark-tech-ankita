@@ -1,10 +1,6 @@
-Hello, Welcome to git repository.
-we're practicing git here.
-thank you!!
-This are new changes by ankita
-heloo
-evryone
-this are new changes by anku - 2nd time
-thans
-this is 3rd changes by ankita
-thank you-------------------
+cat<file1.txt
+#I'm adding this code for testing jenkins auto build
+
+Hello everyone,
+Good evening,to all. 
+Thank you.
